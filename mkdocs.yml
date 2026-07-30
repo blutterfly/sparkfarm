@@ -1,0 +1,98 @@
+site_name: SPARK Farm Discovery Tour
+site_description: A two-hour farm learning experience combining agriculture, renewable energy, robotics, and sustainability for Grades 2–6.
+site_author: SPARK Farm Discovery Tour
+site_url: https://sparkfarm.blutterfly.com
+dev_addr: 127.0.0.1:8012
+
+copyright: Copyright &copy; 2026 SPARK Farm Discovery Tour
+
+nav:
+  - Home: index.md
+  - The Experience: experience.md
+  - Stations:
+      - Station Overview: stations/index.md
+      - 1. Goat-Cam Drone Mission: stations/goat-cam-drone-mission.md
+      - 2. Power the Food Cycle: stations/power-the-food-cycle.md
+      - 3. Smart Machines Discovery Lab: stations/smart-machines.md
+      - 4. Eggs, Worms & Water Gardens: stations/eggs-worms-water-gardens.md
+  - Teachers: teachers.md
+  - Scheduling & Groups: scheduling.md
+  - Safety & Accessibility: safety.md
+  - Learning Pathways: learning-pathways.md
+  - FAQ: faq.md
+  - Book a Visit: booking.md
+  - About: about.md
+
+extra:
+  generator: false
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra_javascript:
+  - assets/javascripts/extra.js
+
+theme:
+  name: material
+  language: en
+  logo: assets/images/spark-logo.svg
+  favicon: assets/images/spark-logo.svg
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Atkinson Hyperlegible
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+    - toc.follow
+
+plugins:
+  - search:
+      lang: en
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true

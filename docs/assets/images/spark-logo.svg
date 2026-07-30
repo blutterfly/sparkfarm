@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">SPARK Farm Discovery Tour</title>
+  <desc id="desc">A green leaf surrounding a golden spark.</desc>
+  <rect width="128" height="128" rx="28" fill="#173f35"/>
+  <path d="M25 84C25 48 48 26 88 24c-3 40-24 64-63 60Z" fill="#7ac943"/>
+  <path d="M36 82c16-19 31-31 52-45" fill="none" stroke="#f4f7ef" stroke-width="7" stroke-linecap="round"/>
+  <path d="m91 56 5-14 5 14 14 5-14 5-5 14-5-14-14-5 14-5Z" fill="#ffc83d"/>
+</svg>
