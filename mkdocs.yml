@@ -22,6 +22,10 @@ nav:
   - FAQ: faq.md
   - Book a Visit: booking.md
   - About: about.md
+  - Parcel: parcel.md
+  - Site Plan: site-plan.md
+  - Brochure: stations/brochure.md
+  
 
 extra:
   generator: false
