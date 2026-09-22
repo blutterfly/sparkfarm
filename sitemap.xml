@@ -1,71 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://sparkfarm.blutterfly.com/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/about/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/booking/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/booking/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/chesterfield-zoning/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/experience/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/experience/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/faq/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/faq/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/learning-pathways/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/home/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/parcel/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/learning-pathways/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/safety/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/parcel/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/scheduling/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/safety/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/site-plan/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/scheduling/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/teachers/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/site-plan/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/stations/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/spark-farm/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/stations/brochure/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/teachers/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/stations/eggs-worms-water-gardens/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/stations/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/stations/goat-cam-drone-mission/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/stations/brochure/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/stations/power-the-food-cycle/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/stations/eggs-worms-water-gardens/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
     <url>
-         <loc>https://sparkfarm.blutterfly.com/stations/smart-machines/</loc>
-         <lastmod>2026-08-23</lastmod>
+         <loc>https://blutterfly.github.io/sparkfarm/stations/goat-cam-drone-mission/</loc>
+         <lastmod>2026-09-22</lastmod>
+    </url>
+    <url>
+         <loc>https://blutterfly.github.io/sparkfarm/stations/power-the-food-cycle/</loc>
+         <lastmod>2026-09-22</lastmod>
+    </url>
+    <url>
+         <loc>https://blutterfly.github.io/sparkfarm/stations/smart-machines/</loc>
+         <lastmod>2026-09-22</lastmod>
     </url>
 </urlset>
