@@ -1,103 +1,44 @@
----
-hide:
-  - navigation
-  - toc
----
+# About the SPARK Farm Discovery Tour
 
-<div class="spark-hero" markdown>
-<span class="spark-kicker">Grades 2–6 · Two-hour field trip</span>
+![Aerial view of the SPARK educational farm and learning campus](assets/images/pages/about.jpg){ .spark-page-image loading=lazy }
 
-# Where farming meets technology
 
-Students explore animals, aquaponics, renewable energy, robotics, composting, worms, and hydroponics through four connected discovery stations.
+## Mission
 
-<div class="spark-actions" markdown>
-[Explore the experience](experience.md){ .md-button .md-button--primary }
-[Plan a school visit](booking.md){ .md-button }
-</div>
-</div>
+The SPARK Farm Discovery Tour helps young learners see that agriculture is a living engineering system. Animals, plants, water, energy, electronics, machines, and people all contribute to producing food responsibly.
 
-![SPARK Farm Discovery Tour with a camera goat and agricultural drone](assets/images/pages/home.jpg){ .spark-page-image .spark-home-image loading=eager }
+## What SPARK means
 
-<div class="spark-stat-row">
-  <div class="spark-stat"><strong>4</strong> discovery stations</div>
-  <div class="spark-stat"><strong>120</strong> engaging minutes</div>
-  <div class="spark-stat"><strong>2–6</strong> recommended grades</div>
-  <div class="spark-stat"><strong>40</strong> initial group capacity</div>
-</div>
+- **Science:** living systems, water quality, energy, motion, and observation
+- **Practical Agriculture:** animals, food production, plant growing, and farm operations
+- **Robotics:** sensors, controllers, motors, automation, and machine behavior
+- **Knowledge:** asking questions, measuring results, and connecting ideas
 
-## Four stations. One connected farm.
+## Educational approach
 
-<div class="spark-grid">
-  <article class="spark-card" markdown>
-  <span class="station-number">1</span>
+The program emphasizes:
 
-  ### Goat-Cam Drone Mission
+- Clear cause and effect
+- Visible systems and labeled flows
+- Prediction before demonstration
+- Real equipment rather than isolated toys
+- Safety, animal welfare, and environmental responsibility
+- A progression from observation to future hands-on learning
 
-  Compare an aerial drone view with a live goat-level camera while exploring animal behavior, wireless video, and responsible agricultural technology.
+## The four-station promise
 
-  [Visit Station One →](stations/goat-cam-drone-mission.md)
-  </article>
+Every visit gives students four different perspectives:
 
-  <article class="spark-card" markdown>
-  <span class="station-number">2</span>
+1. **Observe:** cameras, drones, and animal behavior
+2. **Sustain:** aquaponics and renewable energy
+3. **Automate:** programming, sensors, and robots
+4. **Regenerate:** chickens, compost, worms, and hydroponics
 
-  ### Power the Food Cycle
+## Organization information
 
-  Follow water through aquaponics and see solar, wind, and bicycle power charge a battery that runs pumps, aeration, sensors, and lights.
+Replace this section with the farm's history, memorial or founding story, operator biographies, partners, and community purpose.
 
-  [Visit Station Two →](stations/power-the-food-cycle.md)
-  </article>
-
-  <article class="spark-card" markdown>
-  <span class="station-number">3</span>
-
-  ### Smart Machines Discovery Lab
-
-  Watch sensors, Arduino, Raspberry Pi, a robot car, and a desktop robot arm demonstrate how code becomes physical action.
-
-  [Visit Station Three →](stations/smart-machines.md)
-  </article>
-
-  <article class="spark-card" markdown>
-  <span class="station-number">4</span>
-
-  ### Eggs, Worms & Water Gardens
-
-  Explore layer hens, egg production, composting, vermiculture, Kratky, DWC, vertical gardening, and Dutch-bucket hydroponics.
-
-  [Visit Station Four →](stations/eggs-worms-water-gardens.md)
-  </article>
-</div>
-
-<div class="spark-band" markdown>
-## The SPARK idea
-
-**SPARK** brings together **Science, Practical Agriculture, Robotics, and Knowledge**. Students do not encounter isolated exhibits; they discover how living systems, energy, code, machines, and people work together.
-</div>
-
-## Designed for school groups
-
-<div class="spark-icon-line" markdown>
-:material-clock-outline: **Two-hour structure:** welcome, four 20-minute rotations, transitions, and a closing Connected Farm Challenge.
-</div>
-
-<div class="spark-icon-line" markdown>
-:material-school-outline: **Teacher-friendly:** pre-visit guidance, grade-adjustable explanations, curriculum connections, and clear group rotation plans.
-</div>
-
-<div class="spark-icon-line" markdown>
-:material-weather-partly-cloudy: **Weather-aware:** covered demonstrations and substitute activities are planned when drone flight or outdoor activities are unsafe.
-</div>
-
-<div class="spark-icon-line" markdown>
-:material-lightbulb-on-outline: **A gateway to deeper learning:** workshops and camps can extend robotics, aquaponics, hydroponics, and renewable-energy topics.
-</div>
-
-<div class="spark-callout" markdown>
-## Bring your class into the system
-
-Students will leave understanding that modern farming is not only about planting and harvesting. It combines biology, animal care, water, energy, sensors, programming, engineering, and human creativity.
-
-[Review teacher information](teachers.md) · [Book a visit](booking.md)
-</div>
+**Organization:** [SPARK Farm Discovery Tour / farm legal name]  
+**Location:** [City, Virginia]  
+**Founded:** [Year]  
+**Contact:** [Email and phone]

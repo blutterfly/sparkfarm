@@ -2,12 +2,17 @@ site_name: SPARK Farm Discovery Tour
 site_description: A two-hour farm learning experience combining agriculture, renewable energy, robotics, and sustainability for Grades 2–6.
 site_author: SPARK Farm Discovery Tour
 site_url: https://sparkfarm.blutterfly.com
-dev_addr: 127.0.0.1:8012
+site_url: https://blutterfly.github.io/sparkfarm
+dev_addr: 127.0.0.1:8715
 
 copyright: Copyright &copy; 2026 SPARK Farm Discovery Tour
 
-nav:
+nav:  
   - Home: index.md
+  - Parcel: parcel.md
+  - Site Plan: site-plan.md
+  - Spark Farm: spark-farm.md
+  - Chesterfield Zoning: chesterfield-zoning.md
   - The Experience: experience.md
   - Stations:
       - Station Overview: stations/index.md
@@ -21,11 +26,8 @@ nav:
   - Learning Pathways: learning-pathways.md
   - FAQ: faq.md
   - Book a Visit: booking.md
-  - About: about.md
-  - Parcel: parcel.md
-  - Site Plan: site-plan.md
-  - Brochure: stations/brochure.md
-  
+#  - About: about.md
+
 
 extra:
   generator: false
